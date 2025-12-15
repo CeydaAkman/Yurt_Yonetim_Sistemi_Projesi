@@ -80,6 +80,6 @@ Uygulamadaki İşlevi: Bu desen, Veri Haritalama (Mapping) sürecinde kullanıl�
 # Proje Ekibi
 1. Azra AKBAŞ: https://github.com/AzraAkbas
 
-2. Sümeyra Nur Kayalar: https://github.com/SumeyraNurKayalar
+2. Sümeyra Nur KAYALAR: https://github.com/SumeyraNurKayalar
 
 3. Ceyda AKMAN: https://github.com/CeydaAkman
